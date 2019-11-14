@@ -35,9 +35,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * North East: Chronicle Live: [More than half of people who appealed being denied benefits by DWP won their case](https://www.chroniclelive.co.uk/news/north-east-news/dwp-benefit-appeal-wins-17249620) *14 November 2019*
 * Third Force News: [Revealed: Over half of Scots win disability assessment appeals](http://thirdforcenews.org.uk/tfn-news/revealed-over-half-of-scots-win-disability-assessment-appeals#SO7TJoGqHrDZjMzr.99) *14 November 2019*
 
-
-
-The story was also used by 
+The story was also used by the [BBC national TV news at 1pm](https://drive.google.com/open?id=1-077TSpQJOIhDh5NedIJFIxnmxv5ky12), [Today - BBC Radio 4](https://drive.google.com/open?id=16A4eco5JLfNnaATmiTnBrw8tRNRY9pAB), [BBC Reporting Scotland](https://drive.google.com/open?id=1XyUXIjGa9220NykEkDI1BRsVkJ6oF3Oy), [Wales Today](https://drive.google.com/open?id=1ygiCqOz8SbZIDdpjWW3phWRYYyeAT3QD), [BBC South Today](https://drive.google.com/open?id=1AIhZrqqN0vPVlylQ53xE_1izP-N9PTLX), [BBC Look North (Newcastle)](https://drive.google.com/open?id=1QZ2P5plkGqlfFqfOWiyH4U3NmNdfRz-_), 
 
 
 ## Get the data 
