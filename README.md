@@ -28,6 +28,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Oldham Chronicle: [More people from the North West winning benefits disputes over illness and disability](https://www.oldham-chronicle.co.uk/news-features/139/main-news/131189/more-people-from-the-north-west-winning-benefits-disputes-over-illness-and-disability) *8 November 2019*
 * Plymouth Live: [Benefit appeals investigation exposes plight of Plymouth claimants forced to fight for money](https://www.plymouthherald.co.uk/news/plymouth-news/benefit-appeals-investigation-exposes-plight-3534946) *14 November 2019*
 * Blackpool Gazette: [The poorly and disabled are taking on the government in their fight for benefits - and most of them here in the north west win](https://www.blackpoolgazette.co.uk/news/politics/the-poorly-and-disabled-are-taking-on-the-government-in-their-fight-for-benefits-and-most-of-them-here-in-the-north-west-win-1-10096329) *14 November 2019*
+* The Scotsman: [Scots with disabilities losing benefits due to ‘poor assessments’](https://www.scotsman.com/news/politics/scots-with-disabilities-losing-benefits-due-to-poor-assessments-1-5045516) *14 November 2019*
+* The Yorkshire Post: [The Yorkshire ESA, PIP and DLA claimants wrongly denied benefits - new stats show the rising success of appeals](https://www.yorkshirepost.co.uk/news/politics/the-yorkshire-esa-pip-and-dla-claimants-wrongly-denied-benefits-new-stats-show-the-rising-success-of-appeals-1-10100355) *14 November 2019*
+* Cornish Stuff: [More than half now win benefits appeals](https://cornishstuff.com/2019/11/14/more-than-half-now-win-benefits-appeals/) *14 November 2019*
+* The Brecon & Radnor Express: [General election: Work and Pensions secretary visits constituency](http://www.brecon-radnor.co.uk/article.cfm?id=111131&headline=General%20election%3A%20Work%20and%20Pensions%20secretary%20visits%20constituency&sectionIs=news&searchyear=2019&cat=Local%20People) *14 November 2019*
+
 
 
 The story was also used by 
