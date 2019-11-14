@@ -32,6 +32,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Yorkshire Post: [The Yorkshire ESA, PIP and DLA claimants wrongly denied benefits - new stats show the rising success of appeals](https://www.yorkshirepost.co.uk/news/politics/the-yorkshire-esa-pip-and-dla-claimants-wrongly-denied-benefits-new-stats-show-the-rising-success-of-appeals-1-10100355) *14 November 2019*
 * Cornish Stuff: [More than half now win benefits appeals](https://cornishstuff.com/2019/11/14/more-than-half-now-win-benefits-appeals/) *14 November 2019*
 * The Brecon & Radnor Express: [General election: Work and Pensions secretary visits constituency](http://www.brecon-radnor.co.uk/article.cfm?id=111131&headline=General%20election%3A%20Work%20and%20Pensions%20secretary%20visits%20constituency&sectionIs=news&searchyear=2019&cat=Local%20People) *14 November 2019*
+* Third Force News: [Revealed: Over half of Scots win disability assessment appeals](http://thirdforcenews.org.uk/tfn-news/revealed-over-half-of-scots-win-disability-assessment-appeals#SO7TJoGqHrDZjMzr.99) *14 November 2019*
 
 
 
