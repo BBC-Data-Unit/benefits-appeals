@@ -41,6 +41,11 @@ The story was also used by the [BBC national TV news at 1pm](https://drive.googl
 
 * [UK-wide figures](https://docs.google.com/spreadsheets/d/1B-Tx6eVI6hr4Yyt6yO_i3WWebTF-1UbCHSVGevgNArw/edit?usp=sharing)
 
+## Visualisation
+
+* Line chart: Percentage of tribunal decisions in appellants' favour from 2013-18 for Great Britain and Northern Ireland
+* Line chart: Drop in all benefits appeals to First-tier tribunal in the year after Mandatory Reconsideration and legal aid cuts took effect
+
 ## Background and briefing
 
 * [A full briefing pack on the story can be found here](https://docs.google.com/document/d/1sUHIzCjYdkY2kmBst-a182ktgWA1d0kh1ev3yrfj8pk/edit?usp=sharing)
