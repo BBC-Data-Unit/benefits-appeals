@@ -1,6 +1,6 @@
 # Half of disability benefits appeals won in tribunal court
 
-![](https://ichef.bbci.co.uk/news/660/cpsprodpb/9DCE/production/_107989304_gettyimages-1140621813.jpg)
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/181C1/production/_109435789_annbarkerstill2.jpg)
 
 In November 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-49891159) one in two people who appealed in court against a decision to deny them disability benefits was successful.
 
