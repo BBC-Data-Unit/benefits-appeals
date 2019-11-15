@@ -8,7 +8,9 @@ In total, more than 550,000 people won an appeal over their benefits at tribunal
 
 The success rates showed benefits assessments were beset by "poor decision-making" and "obvious inaccuracies", charities said.
 
-The government said only around 5% of disability decisions were overturned.
+The government said only around 5% of all disability benefits claims were overturned.
+
+Our research was [raised at First Minister's Questions to Nicola Sturgeon](https://twitter.com/ClareAdamsonSNP/status/1195021452313079808) in Scotland on the day of publication and it was [put to the Secretary of State at the Department for Work and Pensions Thérèse Coffey on the campaign trail](http://www.brecon-radnor.co.uk/article.cfm?id=111131&headline=General%20election%3A%20Work%20and%20Pensions%20secretary%20visits%20constituency&sectionIs=news&searchyear=2019&cat=Local%20People) on the same day. Two Labour candidates, [Marsha de Cordova](https://twitter.com/MarshadeCordova/status/1194916253221175296) in Battersea and [Eleanor Smith](https://twitter.com/Eleanor_SmithMP/status/1194928780164452353) in Wolverhampton South West, tweeted that the party would scrap the health assessments criticised in our report, if it won the General Election. 
 
 Benefits assessments are carried out on behalf of the Department for Work and Pensions (DWP) by the private contractors Capita, the Independent Assessment Services (formerly called Atos) and Maximus.
 
