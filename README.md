@@ -14,7 +14,7 @@ Our research was [raised at First Minister's Questions to Nicola Sturgeon](https
 
 Benefits assessments are carried out on behalf of the DWP by the private contractors Capita, the Independent Assessment Services (formerly called Atos) and Maximus.
 
-Capita and Maximus, two of the private companies who carry out assessments, said the majority of people were satisfied with the process and they worked with charities and disabled people's organisations to improve their services further."
+Capita and Maximus, two of the private companies who carry out assessments, said the majority of people were satisfied with the process and they worked with charities and disabled people's organisations to improve their services further.
 
 The BBC's Shared Data Unit analysed figures from Freedom of Information responses from HM Courts and Tribunals Service and Northern Ireland's Department for Communities (DfC).
 
