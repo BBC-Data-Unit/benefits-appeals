@@ -54,6 +54,15 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Droitwich Spa: [70 percent of Midlands disability benefit appeals successful](https://www.droitwichadvertiser.co.uk/news/worcester_news/18042796.70-percent-midlands-disability-benefit-appeals-successful/) *18 November 2019*
 * Hereford Times: [70 percent of Midlands disability benefit appeals successful](https://www.herefordtimes.com/news/regional/18042796.70-percent-midlands-disability-benefit-appeals-successful/) *18 November 2019*
 * Belfast News Letter: More than half of disability benefits appeals in NI won in tribunal court *16 December 2019*
+* Ballymena Times: More than half of disability benefits appeals in NI won in tribunal court *17 December 2019*
+* Mid Ulster Mail: More than half of disability benefits appeals in NI won in tribunal court *19 December 2019*
+* Portadown Times: More than half of disability benefits appeals in NI won in tribunal court *20 December 2019*
+* Banbridge Leader: More than half of disability benefits appeals in NI won in tribunal court *24 December 2019*
+* Coleraine Times: More than half of disability benefits appeals in NI won in tribunal court *25 December 2019* 
+* Londonderry Sentinel: More than half of disability benefits appeals in NI won in tribunal court *25 December 2019*
+* Lurgan Mail: More than half of disability benefits appeals in NI won in tribunal court *26 December 2019*
+* Derry Journal: More than half of disability benefits appeals in NI won in tribunal court *31 December 2019* 
+
 
 The story was also used by the [BBC national TV news at 1pm](https://drive.google.com/open?id=1-077TSpQJOIhDh5NedIJFIxnmxv5ky12), [Today - BBC Radio 4](https://drive.google.com/open?id=16A4eco5JLfNnaATmiTnBrw8tRNRY9pAB), [Afternoon Live - BBC News Channel](https://drive.google.com/open?id=1Jo74U_TR1Pyb36-lLZT21GGgFzAWE3CU), [BBC Reporting Scotland](https://drive.google.com/open?id=1XyUXIjGa9220NykEkDI1BRsVkJ6oF3Oy), [Wales Today](https://drive.google.com/open?id=1ygiCqOz8SbZIDdpjWW3phWRYYyeAT3QD), [BBC South Today](https://drive.google.com/open?id=1AIhZrqqN0vPVlylQ53xE_1izP-N9PTLX), [BBC Look North (Newcastle)](https://drive.google.com/open?id=1QZ2P5plkGqlfFqfOWiyH4U3NmNdfRz-_), [BBC Wales online](https://www.bbc.co.uk/news/uk-wales-50378036), BBC Tees, BBC Radio Ulster, BBC Somerset, BBC Radio Kent, BBC Radio Solent, BBC Radio Suffolk, BBC Radio nan Gàidheal - Naidheachdan, BBC Radio Foyle and Radio Scotland
 
