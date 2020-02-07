@@ -55,7 +55,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Droitwich Spa: [70 percent of Midlands disability benefit appeals successful](https://www.droitwichadvertiser.co.uk/news/worcester_news/18042796.70-percent-midlands-disability-benefit-appeals-successful/) *18 November 2019*
 * Hereford Times: [70 percent of Midlands disability benefit appeals successful](https://www.herefordtimes.com/news/regional/18042796.70-percent-midlands-disability-benefit-appeals-successful/) *18 November 2019*
 * Belfast News Letter: More than half of disability benefits appeals in NI won in tribunal court *16 December 2019*
-* Ballymena Times: More than half of disability benefits appeals in NI won in tribunal court *17 December 2019*
+* Ballymena & Antrim Times: More than half of disability benefits appeals in NI won in tribunal court *17 December 2019*
 * Mid Ulster Mail: More than half of disability benefits appeals in NI won in tribunal court *19 December 2019*
 * Portadown Times: More than half of disability benefits appeals in NI won in tribunal court *20 December 2019*
 * Banbridge Leader: More than half of disability benefits appeals in NI won in tribunal court *24 December 2019*
